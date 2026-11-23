@@ -7,7 +7,7 @@ const songs = [
   {language:"Hindi", title:"Alfaaz", artist:"", file:"alfaaz .mp3"},
   {language:"Malayalam", title:"Yavanakathayil", artist:"", file:"yavanakathayil.mp3"},
   {language:"Malayalam", title:"Aaradhike", artist:"", file:"Aaradhike.mp3"},
-  {language:"Hindi", title:"Bol Na Halke Halke", artist:"", file:"bol-na-halke-halve.mp3"},
+  {language:"Hindi", title:"Bol Na Halke Halke", artist:"", file:"bol-na-halke-halke.mp3"},
   {language:"Hindi", title:"Maula Mere", artist:"", file:"maula-mere.mp3"},
   {language:"Hindi", title:"Tose Naina Lage", artist:"", file:"tose-naina-lage.mp3"},
   {language:"English", title:"Young and Beautiful", artist:"Lana Del Rey", file:"young-and-beautiful.mp3"},
